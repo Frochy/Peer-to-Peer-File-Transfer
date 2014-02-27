@@ -1,0 +1,8 @@
+Quick Share is a java based peer to peer file sharing application for desktops. 
+It can be used to:
+
+1. Share files upto 121 MB in size in a given network in a peer to peer fashion.
+2. The Quick Share Server is installed/run on a separate machine.
+3. The Quick Share Peer is installed/run on peers in the network.
+4. Once, peers connect to server they can share file in a peer to peer manner between them.
+5. Peers can leave or join network at their discretion. 

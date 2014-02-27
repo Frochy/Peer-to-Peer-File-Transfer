@@ -1,0 +1,27 @@
+
+/******************************************Quick Share Read-Me File******************************************/
+
+This application is developed by Kunal Bohra. Various resources and open source code were referenced during the project implementation. I would like to thank all of them from bottom of my heart. You can use this application any where ,anytime you want and can share, download or copy the source code as well. In case you feel to thank me someday for the code, just buy me a Coke . Thanks. 
+ 
+/*********Contact*********/
+
+Facebook: www.facebook.com/KunaalBohra
+Yahoo: bohra.kunal@ymail.com
+
+
+
+
+To run Quick Share:
+
+1. Go to Pre-requisite folder-> Copy Quick Share Server .jar file and DATA.xml file
+2. Paste the .jar file as well as DATA.xml file on the server machine. 
+3. Similarly, Go to Pre-requisite folder-> Copy Quick Share Peer .jar file 
+4. Paste the .jar file on all the peers machine. 
+5. Run the .jar Server application
+6. Browse and select DATA.xml file and then click Start.
+7. Now start .jar Peer application on all the peers on the network and supplu the IP address of the Server machine as input. 
+8. Click Connect.
+9. Either enter previously saved Username and Password from the DATA.xml file or Sign Up  with new  Username and Password. 
+10. Now Select files to share using Browse button in Peer application.
+11. Select the destination Peer using list in the Peer application.
+12. Click Send to share files.

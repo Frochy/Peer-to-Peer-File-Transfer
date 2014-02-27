@@ -1,0 +1,5 @@
+Following are the results of Quick Share Application:
+
+1. Quick Share Server: The server is error/bug free. It can handle 50 clients simultaneously. 
+
+2. Quick Share Peers: The peer application runs fine as per requirements and test plan documents. 
